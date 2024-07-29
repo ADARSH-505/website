@@ -1,0 +1,41 @@
+.nav{
+    display:flex;
+     
+}
+.nav div{
+    margin:20px;
+    padding:20px;
+    color:black;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+        color:blue;
+    }
+ 
+body{
+    background-image: url(mbcetimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    margin:20px;
+    padding:20px;
+}
+a:link, a:visited {
+    background-color: skyblue;
+    color: black;
+    border: 2px solid blue;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: black;
+    color: white;
+  }

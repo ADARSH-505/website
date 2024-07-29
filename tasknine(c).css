@@ -1,0 +1,17 @@
+body{
+    background-image: url(mbcetimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    margin:20px;
+    padding:20px;
+}
+.signup{
+    margin:100px;
+    max-width: fit-content;
+}
+h1{
+    text-decoration: underline;
+}
